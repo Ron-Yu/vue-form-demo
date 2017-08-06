@@ -11,9 +11,12 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
+    "vee-validate": "^2.0.0-rc.8",
     "vue": "^2.3.3"
   },
   "devDependencies": {
+    "@storybook/vue": "^3.2.3",
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-preset-env": "^1.5.1",
@@ -25,7 +28,6 @@
     "vue-loader": "^12.1.0",
     "vue-template-compiler": "^2.3.3",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5",
-    "@storybook/vue": "^3.2.3"
+    "webpack-dev-server": "^2.4.5"
   }
 }
