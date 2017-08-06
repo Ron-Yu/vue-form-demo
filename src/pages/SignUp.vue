@@ -9,7 +9,7 @@
       
       
       <div class="row">
-        <div class="input-field col s12">
+        <div class="col s12">
           <legend class="legend">Gender</legend>
           <template v-for="gender in genderOptions">
             <MyRadio
@@ -25,7 +25,7 @@
       </div>
                 
       <div class="row">
-        <div class="input-field col s12">
+        <div class="col s12">
           <legend class="legend">Color</legend>
           <template v-for="color in colorOptions">
             <MyCheckbox
