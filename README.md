@@ -3,7 +3,7 @@
 > A Vue.js project
 
 # demo
-<img src="https://dl.dropboxusercontent.com/s/tu429gjpffxf57d/A5593CAE-C2ED-4A47-B7E5-19B89EC87AE2-13505-0001CF78C536C2B0.gif?dl=0" width="350"/>
+![Alt text](https://dl.dropboxusercontent.com/s/tu429gjpffxf57d/A5593CAE-C2ED-4A47-B7E5-19B89EC87AE2-13505-0001CF78C536C2B0.gif?dl=0)
 
 ## Build Setup
 
