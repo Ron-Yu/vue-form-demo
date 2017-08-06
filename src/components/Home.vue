@@ -1,13 +1,13 @@
 <template>
-  <Home></Home>
+  <h1>{{text}}</h1>
 </template>
 
 <script>
-import Home from './components/Home.vue';
-
 export default {
-  components: {
-    Home
+  data() {
+    return {
+      text: 'Hello World'
+    }
   }
 }
 </script>
