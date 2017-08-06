@@ -3278,7 +3278,7 @@ lodash.words@^3.0.0:
   dependencies:
     lodash._root "^3.0.0"
 
-lodash@4.x.x, lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.2.0, lodash@^4.2.1, lodash@~4.17.4:
+lodash@4.x.x, lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1, lodash@~4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
@@ -5360,6 +5360,10 @@ validate-npm-package-license@^3.0.1:
 vary@~1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.1.tgz#67535ebb694c1d52257457984665323f587e8d37"
+
+vee-validate@^2.0.0-rc.8:
+  version "2.0.0-rc.8"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-2.0.0-rc.8.tgz#2a1f176f0bc1bb9a5758a5d1840b305762f7452b"
 
 velocity-animate@^1.4.0:
   version "1.5.0"

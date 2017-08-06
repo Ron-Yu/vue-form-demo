@@ -1,17 +1,21 @@
 <template>
-  <Home></Home>
+  <section class="container">
+    <SignUp></SignUp>
+  </section>
 </template>
 
 <script>
-import Home from './components/Home.vue';
+import SignUp from './pages/SignUp.vue'
 
 export default {
   components: {
-    Home
+    SignUp
   }
 }
 </script>
 
 <style lang="scss">
-
+  .container {
+    width: 60%
+  }
 </style>
